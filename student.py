@@ -1,7 +1,7 @@
-student_name = "Anu"
+student_name = "bAnu"
 
-mark1 = 85
-mark2 = 90
+mark1 = 99
+mark2 = 100
 mark3 = 80
 
 total = mark1 + mark2 + mark3
